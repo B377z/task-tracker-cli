@@ -32,5 +32,5 @@ List Tasks:
     task-cli list
 
 ## Project URL
-[https://github.com/B377z/task-tracker-cli](https://github.com/B377z/task-tracker-cli)
+https://github.com/B377z/task-tracker-cli
 
